@@ -1,0 +1,18 @@
+﻿
+Pavadinimas: Pigu, Adresas: K. Barsausko g. 66a, Kaunas, Telefono numeris: +370 661 05555
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Produktas       | Gamintojas      | Modelis         | Energijos klasė | Spalva               | Kaina  | Talpa           | Montavimo tipas      | Šaldiklis? | Aukštis  | Plotis   | Gylis    | Galingumas | Programų skaičius    |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Šaldytuvas      | Beko            | RCNA406E40ZXBN  | E               | Nerudijančio plieno  | 375    | 388             | Laisvai statomi      | Neturi     | 202      | 59       | 67       | -          | -                    |
+| Šaldytuvas      | Siemens         | KA93NVIFP       | A++             | Pilka                | 900    | 560             | Laisvai statomi      | Neturi     | 178      | 90       | 70       | -          | -                    |
+| Šaldytuvas      | LG              | GBP31SWLZN      | E               | Balta                | 436    | 374             | Laisvai statomi      | Turi       | 186      | 59       | 68       | -          | -                    |
+| Šaldytuvas      | Electrolux      | LXB2AF82S       | F               | Balta                | 600    | 127             | Imontuojami          | Turi       | 81       | 56       | 54       | -          | -                    |
+| Mikrobanginė    | Sharp           | R200BKE         | A+              | Juoda                | 67     | -               | -                    | -          | -        | -        | -        | 800        | 1                    |
+| Mikrobanginė    | Beko            | MGC20100W       | B               | Balta                | 64     | -               | -                    | -          | -        | -        | -        | 700        | 2                    |
+| Mikrobanginė    | Siemens         | EMS4253TEX      | A+              | Nerūdijantis plienas | 309    | -               | -                    | -          | -        | -        | -        | 900        | 1                    |
+| Mikrobanginė    | Winia           | OR-6647W        | E               | Nerūdijantis plienas | 80     | -               | -                    | -          | -        | -        | -        | 700        | 1                    |
+| Virdulys        | Husla           | ERT4597         | B               | Balta                | 73     | 1               | -                    | -          | -        | -        | -        | 2000       | -                    |
+| Virdulys        | Bosch           | TWK70B03        | B               | Juoda/Skaidri        | 53     | 2               | -                    | -          | -        | -        | -        | 2400       | -                    |
+| Virdulys        | Siemens         | KBOV2001BK      | A               | Juoda                | 63     | 2               | -                    | -          | -        | -        | -        | 2000       | -                    |
+| Virdulys        | Camry           | CR1269b         | B               | Juoda                | 23     | 1               | -                    | -          | -        | -        | -        | 2200       | -                    |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

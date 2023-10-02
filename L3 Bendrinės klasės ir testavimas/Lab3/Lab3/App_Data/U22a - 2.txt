@@ -1,0 +1,6 @@
+﻿Rekursija,Jusas,Vacius,20
+Susietasis sąrašas,Burbaitė,Renata,25
+Polimorfizmas,Jančiukas,Mindaugas,21
+Deklraratyvusis programavimas,Giedrius,Ziberkas,22
+Užklausos LINQ,Nabutaitė,Lina,23
+Lambda išraiškų taikymas,Jusas,Vacius,22

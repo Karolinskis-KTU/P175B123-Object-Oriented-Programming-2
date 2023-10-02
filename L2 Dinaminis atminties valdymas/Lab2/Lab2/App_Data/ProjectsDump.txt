@@ -1,0 +1,10 @@
+--------------------------------------------------------------------------------------------------
+| Project name                        | Proffesor surname    | Proffesor name       | Given time |
+--------------------------------------------------------------------------------------------------
+| Susietasis sąrašas                  | Burbaitė             | Renata               |         25 |
+| Deklraratyvusis programavimas       | Giedrius             | Ziberkas             |         22 |
+| Polimorfizmas                       | Jančiukas            | Mindaugas            |         21 |
+| Rekursija                           | Jusas                | Vacius               |         20 |
+| Lambda išraiškų taikymas            | Jusas                | Vacius               |         22 |
+| Užklausos LINQ                      | Nabutaitė            | Lina                 |         23 |
+--------------------------------------------------------------------------------------------------

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab2.Classes.DataOutput">
+    <Position X="5.5" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Classes\DataOutput.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="work" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Lab2.Classes.InOut">
+    <Position X="10" Y="7.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AFAAAAAIQAAAAAAAAAAADAAAAAAEAAAAAQAAAAEAAAA=</HashCode>
+      <FileName>Classes\InOut.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Student" />
+      <Property Name="Project" />
+      <Property Name="LinkedList" />
+      <Property Name="Node" />
+      <Property Name="work" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Lab2.Classes.LinkedList">
+    <Position X="15" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAIBADAIQAAQAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Classes\LinkedList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Classes.Node">
+    <Position X="15.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAEAAAAAAAAAAAAABAAAAAQAAIAAAA=</HashCode>
+      <FileName>Classes\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Classes.Project">
+    <Position X="11.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAQAAAAAAAQAAAAAAIAAAABAAAAAAAA=</HashCode>
+      <FileName>Classes\Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Classes.Student">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAACAAAAAQABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Classes.TaskUtils">
+    <Position X="5.5" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAQAAAAAAAAAAACAAAAAAAQAACEAAAAAAACAA=</HashCode>
+      <FileName>Classes\TaskUtils.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Project" />
+      <Property Name="Student" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Lab2.work">
+    <Position X="2" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAEAAAAAAAAAAAQAgAIAAQYAAAAAAQAAYAAAA=</HashCode>
+      <FileName>work.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

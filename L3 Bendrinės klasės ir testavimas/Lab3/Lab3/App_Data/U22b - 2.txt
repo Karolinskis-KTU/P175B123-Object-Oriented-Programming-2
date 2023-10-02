@@ -1,0 +1,7 @@
+﻿Rekursija,Pavardenis,Vardenis,IFF/1-1
+Susietasis sąrašas,Pavardaitė,Vardaitė,IFF/1-1
+Polimorfizmas,Jonas,Jonaitis,IFF/1-2
+Deklraratyvusis programavimas,Arnas,Šablinskas,IFF/1-1
+Rekursija,Domantas,Vaičiulis,IFF/1-3
+Susietasis sąrašas,Donatas,Kušleika,IFF/1-4
+Lambda išraiškų taikymas,Gabija,Grinkevičiūtė,IFF/1-5

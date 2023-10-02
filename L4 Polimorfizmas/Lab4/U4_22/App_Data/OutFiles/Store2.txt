@@ -1,0 +1,14 @@
+﻿
+Pavadinimas: Topo Centras, Adresas: Savanorių pr. 206A, Kaunas, Telefono numeris: 866000200
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Produktas       | Gamintojas      | Modelis         | Energijos klasė | Spalva               | Kaina  | Talpa           | Montavimo tipas      | Šaldiklis? | Aukštis  | Plotis   | Gylis    | Galingumas | Programų skaičius    |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Šaldytuvas      | Snaige          | RF56SM-S5DP2F   | F               | Smėlinė              | 397    | 200             | Laisvai statomi      | Turi       | 185      | 60       | 65       | -          | -                    |
+| Šaldytuvas      | Siemens         | KA93NVIFP       | A++             | Pilka                | 500    | 560             | Laisvai statomi      | Neturi     | 178      | 90       | 70       | -          | -                    |
+| Šaldytuvas      | LG              | GBB72MCDFN      | E               | Pilka                | 677    | 277             | Laisvai statomi      | Turi       | 203      | 67       | 70       | -          | -                    |
+| Šaldytuvas      | SAMSUNG         | RF65A967ESR/EO  | A               | Pilka                | 450    | 397             | Laisvai statomi      | Turi       | 180      | 91       | 61       | -          | -                    |
+| Mikrobanginė    | BOSCH           | BFL634GS1       | B               | Nerudijantis plienas | 470    | -               | -                    | -          | -        | -        | -        | 1800       | 1                    |
+| Virdulys        | Bosch           | TWK70B03        | B               | Juoda/Skaidri        | 53     | 2               | -                    | -          | -        | -        | -        | 2400       | -                    |
+| Virdulys        | Siemens         | KO2508          | A               | Juoda                | 39     | 2               | -                    | -          | -        | -        | -        | 2400       | -                    |
+| Virdulys        | DELONGHI        | KBOV2001BK      | A               | Juoda                | 63     | 2               | -                    | -          | -        | -        | -        | 2000       | -                    |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

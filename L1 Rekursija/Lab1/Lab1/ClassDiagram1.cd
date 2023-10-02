@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab1.src.DataOutput" Collapsed="true">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>src\DataOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.src.InOutUtils">
+    <Position X="7.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\InOutUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.src.Route">
+    <Position X="12.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>src\Route.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.src.Routing">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAgAAAAAABAAAAAAAQCAAIAIAAACAAAAAAAAAA=</HashCode>
+      <FileName>src\Routing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.src.TaskUtils" Collapsed="true">
+    <Position X="6" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABAAAJAAAAAAAAEAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\TaskUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.src.Town">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\Town.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="DataOutput" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Lab1.Varzybos">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAEAAAgAAAAAAAQAgAIgAAQAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Varzybos.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

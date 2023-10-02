@@ -1,0 +1,91 @@
+﻿body {
+    color: #34495e;
+    font-family: Trebuchet, Arial, sans-serif;
+    background-color: #ecf0f1;
+}
+
+[type="file"] {
+    /* Style the color of the message that says 'No file chosen' */
+    color: black;
+}
+
+[type="file"]::-webkit-file-upload-button {
+    border-width: 0;
+    outline: none;
+    border-radius: 2px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    background-color: #2ecc71;
+    color: #ecf0f1;
+    transition: all 1s ease;
+}
+
+[type="file"]::-webkit-file-upload-button:hover {
+    background-color: #27ae60;
+}
+
+[type="text"] {
+    border: 2px solid #ecf0f1;
+    border-radius: 4px;
+    background: #fff !important;
+    color: black;
+    cursor: pointer;
+    font-size: 12px;
+    outline: none;
+    transition: all 1s ease;
+}
+
+[type="text"]:hover {
+    background: #fff;
+    border: 2px solid #535353;
+    color: #000;
+}
+
+[type="Submit"] {
+    border-width: 0;
+    outline: none;
+    border-radius: 2px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    background-color: #2ecc71;
+    color: #ecf0f1;
+    transition: background-color .3s;
+}
+
+[type="Submit"]:hover, [type="Submit"]:focus {
+    background-color: #27ae60;
+}
+
+tbody {
+    margin-bottom: 2rem;
+    background-color: #ffffff;
+}
+
+tr {
+    -webkit-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+tr:hover {
+    background-color: rgba(0, 0, 0, 0.12);
+}
+
+th, td {
+    text-align: left;
+    padding: 0.5rem;
+    vertical-align: top;
+    border-top: 0;
+    -webkit-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+tbody > thead > tr > th {
+    font-weight: 400;
+    color: #757575;
+    vertical-align: bottom;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+#Label8 {
+    font-weight: bold;
+}

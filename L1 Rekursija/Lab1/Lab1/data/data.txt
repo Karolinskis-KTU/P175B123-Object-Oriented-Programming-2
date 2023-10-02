@@ -1,0 +1,24 @@
+﻿
+Ammount of towns: 4
+Ammount of routes: 7
+
+Town names
+Preivai
+Saukai
+Salai
+Rekai
+Balkai
+
+Source: Preivai Destination: Balkai
+----------------------------------------------------------
+| Start                | End                  | Distance |
+----------------------------------------------------------
+| Preivai              | Saukai               |        2 |
+| Preivai              | Salai                |        8 |
+| Preivai              | Balkai               |       10 |
+| Saukai               | Balkai               |        7 |
+| Saukai               | Rekai                |        2 |
+| Salai                | Rekai                |        4 |
+| Salai                | Balkai               |        6 |
+| Rekai                | Balkai               |        5 |
+----------------------------------------------------------

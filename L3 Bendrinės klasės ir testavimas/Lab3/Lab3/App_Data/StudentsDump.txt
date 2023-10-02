@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------
+| Project name         | Surname              | Name                 | Group    |
+---------------------------------------------------------------------------------
+| Vardenis             | Pavardenis           | Vardenis             |  IFF/1-1 |
+| Vardaitė             | Pavardaitė           | Vardaitė             |  IFF/1-1 |
+| Jonaitis             | Jonas                | Jonaitis             |  IFF/1-2 |
+| Šablinskas           | Arnas                | Šablinskas           |  IFF/1-1 |
+| Vaičiulis            | Domantas             | Vaičiulis            |  IFF/1-3 |
+| Kušleika             | Donatas              | Kušleika             |  IFF/1-4 |
+| Grinkevičiūtė        | Gabija               | Grinkevičiūtė        |  IFF/1-5 |
+---------------------------------------------------------------------------------
